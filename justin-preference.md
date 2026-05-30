@@ -7,6 +7,7 @@
 - Prefer concise answers.
 - Explain the reasoning behind recommendations.
 - Provide commands when helpful.
+- Prefer maintainable solutions with the least necessary complexity.
 
 ## Solutions
 
